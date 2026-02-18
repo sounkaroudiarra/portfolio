@@ -131,7 +131,7 @@ st.header("🎓 Géomatique – Centre d'Entreprenariat et de Développement Tec
 with st.expander("BTS Géomatique – CEDT Le G15 (2024 – 2025)", expanded=False):
     st.markdown("""
     - Maîtrise des outils SIG   
-    - Cartographie thématiques, plans et modélisations  
+    - Cartographie thématiques, plans et modélisations, Autocad, Sketchup  
     - Topographie et levés de terrain  
     - Initiation au pilotage de drones  
     - Initiation à la programmation 
@@ -382,7 +382,7 @@ with st.expander("Voir toutes mes compétences techniques", expanded=False):
     st.markdown("""
     <span class="badge bdd">MySQL</span>
     <span class="badge bdd">PostgreSQL/GIS</span>
-    <span class="badge bdd">Gestion de bases de données géographiques</span>
+    <span class="badge bdd">Gestion de bases de données spatiales</span>
     """, unsafe_allow_html=True)
 
     st.markdown("### Aménagement & Gestion territoriale")
@@ -528,4 +528,5 @@ with st.expander("🎯 Centres d’intérêt"):
     - Lecture (ouvrages académiques, sciences sociales, géographie)  
     - Cyclisme (discipline, endurance et persévérance)
     """)
+
 
