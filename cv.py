@@ -363,8 +363,8 @@ with st.expander("Voir toutes mes compétences techniques", expanded=False):
 
     st.markdown("### Télédétection & Analyse spatiale")
     st.markdown("""
-    <span class="badge tld">Landsat</span>
-    <span class="badge tld">NDVI</span>
+    <span class="badge tld">Imagerie Satellitaire</span>
+    <span class="badge tld">Calcul d'indice spectral</span>
     <span class="badge tld">Analyse diachronique</span>
     <span class="badge tld">Changement d’usage des sols</span>
     """, unsafe_allow_html=True)
@@ -528,3 +528,4 @@ with st.expander("🎯 Centres d’intérêt"):
     - Lecture (ouvrages académiques, sciences sociales, géographie)  
     - Cyclisme (discipline, endurance et persévérance)
     """)
+
