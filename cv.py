@@ -19,6 +19,14 @@ st.sidebar.markdown("""
 - 🚴 Cyclisme
 """)
 
+st.sidebar.markdown("---")
+st.sidebar.markdown("## 🌍 Langues")
+st.sidebar.markdown("""
+- 🇫🇷 Français  
+- 🇬🇧 Anglais  
+""")
+
+
 
 
 # ---- CSS pour style ----
@@ -528,5 +536,6 @@ with st.expander("🎯 Centres d’intérêt"):
     - Lecture (ouvrages académiques, sciences sociales, géographie)  
     - Cyclisme (discipline, endurance et persévérance)
     """)
+
 
 
