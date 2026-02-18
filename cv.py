@@ -22,8 +22,8 @@ st.sidebar.markdown("""
 st.sidebar.markdown("---")
 st.sidebar.markdown("## 🌍 Langues")
 st.sidebar.markdown("""
-- 🇫🇷 Français  
-- 🇬🇧 Anglais  
+- Français
+- Anglais  
 """)
 
 
@@ -536,6 +536,7 @@ with st.expander("🎯 Centres d’intérêt"):
     - Lecture (ouvrages académiques, sciences sociales, géographie)  
     - Cyclisme (discipline, endurance et persévérance)
     """)
+
 
 
 
